@@ -1,0 +1,2 @@
+# TrinugStaticDemo
+Trinug follow along
